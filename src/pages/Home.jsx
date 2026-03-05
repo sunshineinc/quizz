@@ -35,7 +35,7 @@ function Home() {
         <p className="page-heading my-8 mt-10 text-center text-3xl font-bold uppercase text-black dark:text-white md:text-5xl">
           The Best
           <span className="my-1 block text-center text-primary drop-shadow-2xl">
-            Coding Quiz Practice
+            Quiz
           </span>
           Platform you have ever seen!
         </p>
